@@ -1,4 +1,4 @@
-import React, { UseState, UseEffect } from "react";
+import React, { useState, UueEffect } from "react";
 import ReactDOM from "react-dom";
 
 import axios from "axios";
